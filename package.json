@@ -1,0 +1,11 @@
+{
+	"name": "TodoAplication",
+	"description": "Todo Aplication",
+	"author": "Cong Luong <cong.itsoft@gmail.com>",
+	"private": true,
+  	"dependencies": {
+    	"express": "3.4.7",
+    	"mongoose": "3.8.1",
+    	"mustache": "0.8.0"
+  	}
+}
